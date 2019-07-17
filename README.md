@@ -25,8 +25,8 @@
 四、竞品分析
 将内容进行分工切割后，下一步是把页面（或者说各个模块的入口）做确定。对比了两个主流美港股app的页面结构，从而得出结论。
 
-![] https://github.com/tangjing2/HKStocks.P/blob/master/竞品分析/富图牛牛.jpeg
-![] https://github.com/tangjing2/HKStocks.P/blob/master/竞品分析/老虎证券.jpeg
+![image](https://github.com/tangjing2/HKStocks.P/blob/master/竞品分析/富图牛牛.jpeg)
+![image]( https://github.com/tangjing2/HKStocks.P/blob/master/竞品分析/老虎证券.jpeg)
 
 1. 首页
 老虎和富途都把首页给了行情这一业务，这比较好理解，毕竟行情是证券最重要的服务。
@@ -55,7 +55,7 @@
 4. 我的和交易
 个人中心和交易内容，各家大同小异,我们就直接参考最权威的富图牛牛的交易界面了，在此不展开讨论。
 
-![] https://github.com/tangjing2/HKStocks.P/blob/master/竞品分析/行情.jpeg
+![image](https://github.com/tangjing2/HKStocks.P/blob/master/竞品分析/行情.jpeg)
 
 写在最后：老虎和富途都直接选择了“行情”作为自己都首页。
 但产品本身不仅仅是“炒股软件”或者“炒股社区”，而更多想往“财富管理”方向定位，所有需要一个综合型的页面去承担更多的财富管理的内容（如保险、基金、理财、期货、私募等）；另一方面，传统A股股民对信息和资讯对依赖较深，有看新闻炒股的习惯，而美港股用户由于较年轻，喜欢更“快的”“直接的”的数字来看待股票，这一点其实也在个股页面的内容上有所体现。
